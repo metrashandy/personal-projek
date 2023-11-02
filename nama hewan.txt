@@ -1,4 +1,5 @@
 ayam 
-kuda
+burung
 bebek
 itik
+merak
